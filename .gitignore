@@ -1,0 +1,19 @@
+# Ignorar diretórios de build e IDE
+/target/
+/bin/
+/out/
+
+# Configurações de IDE
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.class
+*.tmp
